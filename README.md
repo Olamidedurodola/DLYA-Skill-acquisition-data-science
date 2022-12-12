@@ -1,3 +1,3 @@
 # data-scie
 
-This is a tempoarry folder for demo to data science bootcamp
+This is the project file for DLYA data science bootcamp
